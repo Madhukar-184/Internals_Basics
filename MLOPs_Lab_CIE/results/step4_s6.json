@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "biosynth-compound-yield-mg-predictor",
+  "version": 1,
+  "run_id": "b54a8cea8c064bddb3a3a6864911ac8b",
+  "source_metric": "mae",
+  "source_metric_value": 20.7991
+}

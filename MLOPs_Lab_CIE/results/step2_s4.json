@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/status",
+  "predict_endpoint": "/infer",
+  "port": 8000,
+  "health_response": {
+    "alive": true,
+    "service": "BioSynth compound_yield_mg API"
+  },
+  "test_input": {
+    "reaction_temp_c": 60.0,
+    "catalyst_concentration": 0.6,
+    "reaction_time_hours": 16.8,
+    "ph_level": 6.7
+  },
+  "prediction": 282.2609
+}

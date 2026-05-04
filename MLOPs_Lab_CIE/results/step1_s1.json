@@ -1,0 +1,20 @@
+{
+  "experiment_name": "biosynth-compound-yield-mg",
+  "models": [
+    {
+      "name": "Lasso",
+      "mae": 20.7991,
+      "rmse": 23.2677,
+      "r2": 0.903
+    },
+    {
+      "name": "RandomForest",
+      "mae": 45.896,
+      "rmse": 49.4315,
+      "r2": 0.5621
+    }
+  ],
+  "best_model": "Lasso",
+  "best_metric_name": "mae",
+  "best_metric_value": 20.7991
+}
